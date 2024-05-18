@@ -1,20 +1,19 @@
 # SIH-Workshop
 
 ## 1. First Slide
-![IMG_4531 (2)](https://github.com/PrasanthE2001/SIH-Workshop/assets/114572171/bc0d285e-d7b5-4f29-af2b-a9cf2375686b)
+![Screenshot (5)](https://github.com/PrasanthE2001/SIH-Workshop/assets/114572171/d877f7be-58c3-4033-880a-7c2d36499126)
 
 ## 2. Second Slide
-![Screenshot 2024-04-24 203614](https://github.com/Hemaatchu/SIH-Workshop/assets/147328300/8e517d48-e6e7-4d5a-af29-f03630aeee48)
+![Screenshot (6)](https://github.com/PrasanthE2001/SIH-Workshop/assets/114572171/df6f43d9-d896-4f97-be99-001961417301)
 
 ## 3. Third Slide
-![Screenshot 2024-04-24 203628](https://github.com/Hemaatchu/SIH-Workshop/assets/147328300/6463a459-1786-4f73-8939-986a288cdca0)
+![Screenshot (7)](https://github.com/PrasanthE2001/SIH-Workshop/assets/114572171/657de51a-10c6-4eed-9a95-4f9d508c2e32)
 
 ## 4. Fourth Slide
-![Screenshot 2024-04-24 203552](https://github.com/Hemaatchu/SIH-Workshop/assets/147328300/4089cd9d-c1fa-4279-87dc-c6551f246c14)
+![Screenshot (8)](https://github.com/PrasanthE2001/SIH-Workshop/assets/114572171/fa75eb2f-93e3-48b8-9e31-ea32bb98e3ae)
 
 ## 5. Fifth Slide
-![Screenshot 2024-04-24 203641](https://github.com/Hemaatchu/SIH-Workshop/assets/147328300/9d699fca-0b09-47da-b840-f13150eccc10)
+![Screenshot (9)](https://github.com/PrasanthE2001/SIH-Workshop/assets/114572171/03e0c4a4-f6fa-4ae9-b873-1ffb903c7010)
 
 ## 6. Sixth Slide
-![Screenshot 2024-04-24 203602](https://github.com/Hemaatchu/SIH-Workshop/assets/147328300/ec732ef4-e846-41a2-9777-c861734d1ff2)
-
+![Screenshot (10)](https://github.com/PrasanthE2001/SIH-Workshop/assets/114572171/9a99abf8-3782-47f8-aa14-7790354626c2)
